@@ -208,7 +208,7 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [ILIAS](https://www.ilias.de/en/) - Another self-hosted open source classroom software. Thanks again to @jankapunkt
   - [Canvas](https://www.instructure.com/canvas) Paid service by Instructure. Also available as a [self-hosted, open source option](https://github.com/instructure/canvas-lms). To ensure privacy, use the self-hosted option.
 - Maps/Street View
-  - [OpenStreetMaps](https://www.openstreetmap.org/) **9-eyes** - Collaborative project to create a free, editable map of the world (from Wikipedia). Completely crowdsourced. Very strong alternative to Maps.
+  - [OpenStreetMap](https://www.openstreetmap.org/) **9-eyes** - Collaborative project to create a free, editable map of the world (from Wikipedia). Completely crowdsourced. Very strong alternative to Maps.
   - [Qwant Maps](https://www.qwant.com/maps/) - Maps from the makers of Qwant search engine. Thanks @mynamesleon
   - [Benmaps](https://benmaps.fr) - Another maps alternative based on OpenStreetMaps. Thanks @dimqua
   - [Mapillary](https://www.mapillary.com/app/) - Crowdsourced street-level imagery built on top of OpenStreetMaps. Open source. Includes map data generated with object recognition software. Coverage is lacking in many cities but can always be improved upon.
